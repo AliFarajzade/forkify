@@ -4,7 +4,7 @@ export const printASCII = () => {
         "font-size: 25px; color: coral;"
     );
     console.log(
-        `%c𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲: https://github.com/alifarajzade/passager-frontend`,
+        `%c𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲: https://github.com/alifarajzade/forkify`,
         "font-size: 25px; color: aqua;"
     );
 };
