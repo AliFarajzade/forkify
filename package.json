@@ -1,0 +1,26 @@
+{
+    "name": "forkify",
+    "version": "1.0.0",
+    "description": "With this app you can search for recipes, bookmark them or even create a new one!",
+    "browserslist": [
+        "defaults",
+        "not Explorer <= 11",
+        "not dead"
+    ],
+    "source": "index.html",
+    "scripts": {
+        "start": "parcel",
+        "build": "parcel build --no-source-maps"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@parcel/transformer-sass": "^2.6.2",
+        "autoprefixer": "^10.4.7",
+        "cssnano": "^5.1.12",
+        "parcel": "^2.6.2",
+        "postcss": "^8.4.14",
+        "postcss-preset-env": "^7.7.2"
+    }
+}
